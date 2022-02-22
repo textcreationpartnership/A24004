@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christians testimony against tythes in an account of the great spoil and rapine committed by the Bishop of Chester's tythe-farmer at Cartmell in Lancashire upon the people there called Quakers in the years 1677 and 1678 : acting first as an informer upon the Act against Conventicles for which his witnesses stand indicted for perjury, secondly by suits in inferiour courts (for tythes) contrary to law.</title>
+            <author>Atkinson, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24004</idno>
+            <idno type="STC">Wing A1431A</idno>
+            <idno type="STC">ESTC R28313</idno>
+            <idno type="EEBO-CITATION">10521957</idno>
+            <idno type="OCLC">ocm 10521957</idno>
+            <idno type="VID">45189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45189)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christians testimony against tythes in an account of the great spoil and rapine committed by the Bishop of Chester's tythe-farmer at Cartmell in Lancashire upon the people there called Quakers in the years 1677 and 1678 : acting first as an informer upon the Act against Conventicles for which his witnesses stand indicted for perjury, secondly by suits in inferiour courts (for tythes) contrary to law.</title>
+                  <author>Atkinson, Thomas.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published to the world by Thomas Atkinson."--colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conventicle act. --  1670.</term>
+               <term>Society of Friends --  England --  History --  Sources.</term>
+               <term>Tithes --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45189:1"/>
+            <pb facs="tcp:45189:1" rendition="simple:additions"/>
+            <p>THE Chriſtians Teſtimony AGAINST TYTHES, In an Account of the great Spoil and Ra<g ref="char:EOLhyphen"/>pine committed by the <hi>Biſhop</hi> of <hi>Cheſter</hi>'s Tythe-Farmer at <hi>Cartmell</hi> in <hi>Lancaſhire;</hi> upon the People there called <hi>Quakers,</hi> in the years 1677 and 1678.</p>
+            <p>ACTING
+<list>
+                  <item>
+                     <hi>Firſt,</hi> As an Informer upon the Act againſt <hi>Conventicles,</hi> for which his Witneſſes ſtand indicted for <hi>Perjury.</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly,</hi> By Suits in Inferiour Courts <hi>(for Tythes)</hi> contrary to Law.</item>
+               </list>
+            </p>
+            <q>
+               <bibl>Prov. 1.</bibl>
+               <p>
+                  <hi>My Son—if they ſay, Let us lurk privily for the Innocent without Cauſe—we ſhall all find precious Subſtance, we ſhall fill our Houſes with Spoil. My Son, walk not thou in the Way with them.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Matth. 10.32.</bibl>
+               <p>
+                  <hi>Whoſoever ſhall confeſs me before Men, him will I confeſs alſo before my Father which is in Heaven.</hi>
+               </p>
+            </q>
+            <p>Printed in the Year 1678.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:45189:2" rendition="simple:additions"/>
+            <pb facs="tcp:45189:2"/>
+            <opener>
+               <salute>Conſiderate Reader,</salute>
+            </opener>
+            <p>AS Perſecution has been the Lot of Innocency in all Ages, expect not leſs in this our Age, but the like Treatment from its Adverſaries. We read not that the <hi>Jews</hi> outward had more Reverence for the Lord Jeſus Chriſt and his Followers, then had the <hi>Heathens:</hi> It was the <hi>Jew</hi> inward that followed Chriſt, when the <hi>Iew</hi> outward ſeverely perſecuted him and his Diſciples. Parallel to the Age we live in, where the Outſide or Legal <hi>Chriſtian</hi> perſecutes the Inward and Real <hi>Chriſtian.</hi> And great Care and Induſtry is taken by Profeſſors with Prophane to ſecure their Immorali<g ref="char:EOLhyphen"/>ties, whilſt they extend their uttermoſt Endeavours againſt all Sobriety, yea, to Ruin their Neighbours, whom they ought to Love, breaking all Bonds of Law, Equity and Reaſon, in ſpoiling them without Mercy.</p>
+            <p>Its not unknown, that men may live as Debauched and Prophanely as they will, have Drunken Aſſem<g ref="char:EOLhyphen"/>blies or Conventicles, and no Informers to proſecute, no Juſtice to make out Warrants for ſuppreſſion there<g ref="char:EOLhyphen"/>of, no Conſtables or other Officers to ſpoil them of their Goods; theſe may live without Paniſhment to ſpend their Eſtates Luxuriouſly, whilſt their ſober Neighbours for Worſhipping of God ſhall be left with<g ref="char:EOLhyphen"/>out Herd in the Stall, Bed to lie upon, Conveniencies for Food or Life, But we ſay, for all this our God is gracious, and ought to be feared and worſhipped; he gives, and he take away, bleſied be his Name; and it is in Mercy to his, which endures forever. And of their Adverſaries Cruelty there will be an End in his
+<pb n="4" facs="tcp:45189:3"/>due time and ſeaſon, whoſe Portion from the Lord will be bitter and miſerable, unleſs they be reconciled by true and timely Repentance, which is the Deſire of the Hearts of the Upright, who truly love their Ene<g ref="char:EOLhyphen"/>mies, and ſuch who uſe them deſpightfully, as was the Doctrine of our Lord and Maſter whilſt here on Earth.</p>
+            <p>This ſmall Tract is of the late Sufferings and Perſe<g ref="char:EOLhyphen"/>cutions of the People of God called <hi>Quakers</hi> in the Pariſh of <hi>Cartmell</hi> in <hi>Lancaſhire,</hi> partly for Tythes to the Biſhop of <hi>Cheſter,</hi> and upon the Act againſt Conventi<g ref="char:EOLhyphen"/>cles, by Proſecution of the Biſhop's Farmers of his Tythes there; the Manner, Nature and Kind of which particularly follows.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:45189:3"/>
+            <head>THE Chriſtians Teſtimony AGAINST TYTHES</head>
+            <p>THE Biſhop of <hi>Cheſter</hi> claiming the Tythes of the Pa<g ref="char:EOLhyphen"/>riſh of <hi>Cartmell</hi> in the County of <hi>Lancaſter</hi> (as belong<g ref="char:EOLhyphen"/>ing to the gain of his Quarter) lets the ſame (as the Prieſts do the Cure of Souls to their Sub-Curates) to farm, un<g ref="char:EOLhyphen"/>to one <hi>Thomas Preſton</hi> the elder of <hi>Holker,</hi> within the ſaid Pa<g ref="char:EOLhyphen"/>riſh of <hi>Cartmell.</hi> And there being ſeveral of the People of God call'd <hi>Quakers</hi> within that Pariſh, who never had nor received ought of Spirituals from the ſaid Biſhop or his Farmer, refus'd to put into their Mouthes, ſo that for ſeveral years laſt paſt the Biſhops Farmer has preſented them in the King's Courts at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> and County Court, whereby many ſuffered tedious Im<g ref="char:EOLhyphen"/>priſonments, ſpoil of their Goods, and much waſte by his Pro<g ref="char:EOLhyphen"/>ſecutions.</p>
+            <p>
+               <hi>Thomas Preſton</hi> the younger of the ſame place renewing the Leaſe of the Biſhop, moſt generally commenced Suits for his Tythes in the Court Barron of <hi>Cartmell.</hi> But in or about the 5th moneth called <hi>July,</hi> 1677. the ſaid Court proceeding in the Suits commenced there; and pretending to hold Pleas, and to determine Caſes for Tythes, the Defendents demur'd to the Ju<g ref="char:EOLhyphen"/>riſdiction of the ſaid Court, as being not capable by Law to hold Pleas, or to determine any ſuch Cauſes (as in Truth by Law it is not, nor can) upon which <hi>T. Preſton</hi> being ſtopt in his Suits, brake out in great Rage and Wrath againſt the Defendents, threat<g ref="char:EOLhyphen"/>ning their Ruin, as after he attempted.</p>
+            <p>
+               <pb n="6" facs="tcp:45189:4"/>
+And for ſome time conſulting) what courſe he ſhould take, adviſed with <hi>John Armſtrong</hi> the Pariſh Prieſt (who confeſſed in diſcourſe, that he adviſed the ſaid <hi>T. Preſton</hi> to ſet up Informers, againſt the ſaid People upon the Act made for ſuppreſſing Conven<g ref="char:EOLhyphen"/>ticles, and to get his Tythes out of the Goods which might be taken upon that Act, and to put this in Execution.</p>
+            <p>Upon the 7th day of the 8th Moneth, 1677. being the firſt day of the Week, the ſaid <hi>Tho. Preſton</hi> ſent two Informers, <hi>viz.</hi> one <hi>George Rigg</hi> his Tythe gatherer, a man of no good repute, (an Indictment for Perjury being ſince found and depending a<g ref="char:EOLhyphen"/>gainſt him) and one <hi>Edw. Stones</hi> his near Neighbour, to an Aſ<g ref="char:EOLhyphen"/>ſembly of the ſaid People at <hi>Height</hi> in the ſaid County there met together to wait upon God, and Worſhip him in Spirit and Truth, in a peaceable manner, as their manner is; and the In<g ref="char:EOLhyphen"/>formers taking notice of the Perſons there, in a ſhort time came alſo the ſaid <hi>Thomas Preſton</hi> on Horſe-back: and the ſaid Aſſem<g ref="char:EOLhyphen"/>bly breaking up at their uſual time, and as they were peaceably departing, <hi>Tho. Preſton</hi> call'd out to the formoſt, <hi>Where is that Rogue that Preacher? I'le take a courſe with him? And where is that</hi> Tho. Atkinſon <hi>that old Rogue of all Rogues?</hi> This and ſuch like was the Language he then uſed againſt an ancient grave Perſon of Seventy three Years of Age, a Man of good Conver<g ref="char:EOLhyphen"/>ſation eſteemed, and ſerviceable amongſt his Neighbours to this very day.</p>
+            <p>When he had thus expreſt himſelf, he told them further, <hi>That his buſineſs was to acquaint them, That in caſe they would ſubmit to the Juriſdiction of</hi> Cartmell <hi>Court, as they had done formerly, and let him recover his Tythes it ſhould be well; but if not, he would Perſecute them ſo, that he would rout them out, Root and Branch, Foundation and Generation; and would pull down their Houſe over their Heads, and trail them in Carts.</hi> Thus, with much more of ſuch inhuman and inſulting Expreſſions vented he, in his fury to the whole Aſſembly then come out, and paſſing from their Meeting place.</p>
+            <p>Theſe propoſitions attended with ſuch Threats and Menace<g ref="char:EOLhyphen"/>ings had ſo ſmall effect that he had no anſwer to his deſire. For they being ſatisfied in Conſcience, that they ought rather to o<g ref="char:EOLhyphen"/>bey
+<pb n="7" facs="tcp:45189:4"/>God then Men. And knowing Jeſus Chriſt to be come, who ended that Prieſthood that had Commiſſion to take the Tythes of their Brethren the <hi>Jews,</hi> which offered Sacrifices for the People, and for that they had Tythes, having no other portion allotted. But Chriſt who is our Teacher, our high Prieſt and Law-giver, we cannot deny in maintaining a Tythe Prieſt and Hireling, who ſtands in oppoſition to him: And alſo knowing that ſuch Inferi<g ref="char:EOLhyphen"/>our Courts ought not to try or hold Juriſdiction of any caſe of Tythes they refuſed to comply with him.</p>
+            <p>Thereupon this <hi>Tho. Preſton</hi> with his two Informers, <hi>G. Rigg</hi> and <hi>E. Stones</hi> Swear the Fact, and procure a Conviction from one <hi>Myles Dolding</hi> a Juſtice of Peace, and Brother in Law to the ſaid <hi>T. Preſton,</hi> who iſſued out his Warrant for Diſtreſs, dated the 18th of the 8th Mon. 1677.</p>
+            <p>In which Warrant is ſaid, thirty five Perſons duly Convicted, of which four of them were not at or in the Meeting that day; two whereof being far diſtant in another County, the third two Miles diſtant thence, and the fourth at home with her young Child, of which ſhe was lately delivered.</p>
+            <p>And as prejury in general excuſes not from other Sin, ſo the falſe Swearing of theſe Informers no wayes prohibited their after Cruelty: But upon the very next day, <hi>viz.</hi> the 19th of the ſame Moneth came this <hi>T. Preſton</hi> the Tythe Farmer, <hi>Geo. Rigg</hi> the Informer accompanied with <hi>Ro. Atkinſon</hi> chief Conſtable (and a Civil perſon) together with <hi>William Askew</hi> and <hi>Jo. Bar<g ref="char:EOLhyphen"/>wick</hi> ſub Conſtables into the Field where <hi>Francis Fleming</hi> was at work, and demanding 20 <abbr>l.</abbr> for himſelf as a Preacher, and 5 <abbr>s.</abbr> for his Wife (not withſtanding ſhe was abſant from the Meet<g ref="char:EOLhyphen"/>ing that day for which ſhe was Convicted) Diſtrained, took and drove away from him his two Cows, which was all he had, they having coſt him near 9 <abbr>l.</abbr> but a little before.</p>
+            <p>
+               <hi>Tho. Preſton</hi> the Maſter of this work not contented with what he had got, although all, told the ſaid <hi>Francis,</hi> that if he had had forty Cows more he would not leave him one; And ſaid further, That if he would not ſubmit, to let him recover his Tythes in <hi>Cartwell</hi> Court, he had a ſecond Information againſt him for a Fine of 40 <abbr>l.</abbr> for Preaching, and 15 <abbr>s.</abbr> for his Wife; and he would
+<pb n="8" facs="tcp:45189:5"/>rout him out, and would rout them all out, and make them ſell their Land—and would bring others into their Land which would pay him his Tythes. The ſaid <hi>Fr. Fleming's</hi> Wife ſtand<g ref="char:EOLhyphen"/>ing by and hearing him, ſaid, <hi>The Lord forgive thee</hi> Thomas Preſton, <hi>if thou mayſt be forgiven.</hi>
+            </p>
+            <p>After this they went to <hi>Tho. Barrow,</hi> and demanding of him 10 <abbr>s.</abbr> for himſelf and Wife upon the aforeſaid Conviction, and by vertue of the ſame Warrant took and diſtrained from him, one Stear worth near 3 <abbr>l.</abbr> And after took from him one other Stear and nine Sheep which in all came to the vallue of 7 <abbr>l.</abbr> or thereabouts.</p>
+            <p>The ſaid <hi>T. Preſton</hi> accompanied with <hi>Ro. Atkinſon</hi> and <hi>W. Askew,</hi> by vertue of the ſame Warrant came to <hi>T. Atkinſon</hi> and demanding 5 <abbr>s.</abbr> took for the ſame one Cow, which he had ſold but a few dayes before for 2 <abbr>l.</abbr> 12 <abbr>s.</abbr> 6 <abbr>d.</abbr> The Cow being ſold be<g ref="char:EOLhyphen"/>fore, and the Warrant being but for 5 <abbr>s.</abbr>
+               <hi>Ro. Atkinſon</hi> fetcht Goods out of the Houſe for the ſame, but <hi>T. Preſton</hi> denyed to take them, but with violence took away the Cow for the 5 <abbr>s.</abbr>
+            </p>
+            <p>This <hi>Tho. Preſton</hi> ſtill purſued his work, and with his Officers took and diſtrained from <hi>John Barrow</hi> for a Fine of 10 <abbr>s.</abbr> one ſmall Gelding and ſeveral Houſe-hold Goods to the vallue of 3 <abbr>l.</abbr> or thereabouts.</p>
+            <p>They alſo by vertue and colour of the ſame Warrant took a<g ref="char:EOLhyphen"/>away and diſtrained from <hi>George Barrow</hi> for a fine of 5 <abbr>s.</abbr> one Stirk, Sheep and Houſhold Goods to the vallue of 1 <abbr>l.</abbr> 16 <abbr>s.</abbr> or thereabouts.</p>
+            <p>They alſo diſtrained and took away from <hi>Richard Britton</hi> for a fine of 10 <abbr>s.</abbr> one Stirk and three fat Sheep of the vallue of 1 <abbr>l.</abbr> 16 <abbr>s.</abbr> or thereabouts.</p>
+            <p>They alſo diſtrained and took away from <hi>Robert Dixon</hi> for a fine of 5 <abbr>s.</abbr> one Mare and a Bed covering, of the vallue of 4 <abbr>l.</abbr>
+            </p>
+            <p>They alſo took away from <hi>John Garnett</hi> (who was not at the Meeting for which he was Convicted) for a fine of 5 <abbr>s.</abbr> one Coat of the vallue of 13 <abbr>s.</abbr> 4 <abbr>d.</abbr> or thereabouts.</p>
+            <p>They alſo took away from <hi>William Pull</hi> for a fine of 5 <abbr>s.</abbr> Sheep to the vallue of 1 <abbr>l.</abbr> or thereabouts.</p>
+            <p>
+               <pb n="9" facs="tcp:45189:5"/>
+They alſo diſtrained and took away from <hi>Jo. Sharp</hi> for the like fine of 5 <abbr>s.</abbr> one Steer of the vallue of forty Shillings, or there<g ref="char:EOLhyphen"/>abouts.</p>
+            <p>The Names of the ſeveral Officers who were actve or con<g ref="char:EOLhyphen"/>cerned themſelves herein, were theſe, <hi>viz. Robert Atkinſon</hi> chief Conſtable; <hi>John Pull, William Askew, John Barwick, Pe<g ref="char:EOLhyphen"/>ter Barrow, Richard Simpſon, John Barrow, Tho. Comperthwhat</hi> ſub Conſtables; <hi>Row. Harriſon, George Dixon, Thomas Hud<g ref="char:EOLhyphen"/>ſon,</hi> Church Wardens; <hi>Row. Rowlandſon, John Barrow, Sam. Dawſon,</hi> Overſeers of the Poor.</p>
+            <p>And upon the 22th day of the 8th Moneth, 1677. aforeſaid, the Goods then taken away and diſtrained as aforeſaid, were brought into the Market place at <hi>Cartmell</hi> to be ſold by the com<g ref="char:EOLhyphen"/>mon Cryer. And when the Cryer was ſelling them, the ſaid <hi>Tho. Preſton</hi> came and askt if they were all ſold, <hi>If not</hi> (ſaid he) <hi>they ſhall be ſold, if it be but for two Pence a Beaſt, and if none will buy them, I'le make the Officers buy them; and I will rout the</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>out of</hi> Cartmell.</p>
+            <p>
+               <hi>Francis Fleming</hi> being then preſent, ſaid to the People in the Market-place, <hi>Ye are many living Witneſſes that hear him:</hi> Upon which <hi>T. Preſton</hi> call'd the ſaid <hi>Francis Rogue</hi> and <hi>Knave.</hi> The ſaid <hi>Francis</hi> replied, <hi>Thou accuſſes me falſly, for I am neither Rogue nor Knave.</hi> And as a Teſtimony to the Truth of what is here before related, particularly to the abuſive words, Mena<g ref="char:EOLhyphen"/>ces, Threats, and ſcurrilous Expreſſions of the ſaid <hi>Tho. Preſton,</hi> we who are under written are Witneſſes, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>James Taylor,</hi>
+               </item>
+               <item>
+                  <hi>Ric. Button,</hi>
+               </item>
+               <item>
+                  <hi>Joſ. Sharp,</hi>
+               </item>
+               <item>
+                  <hi>Char. Silkins,</hi>
+               </item>
+               <item>
+                  <hi>Wil. Barrow,</hi>
+               </item>
+               <item>
+                  <hi>Francis Fleming,</hi>
+               </item>
+               <item>
+                  <hi>George Barrow,</hi>
+               </item>
+               <item>
+                  <hi>John Barrow,</hi>
+               </item>
+               <item>
+                  <hi>Chriſto. Fell,</hi>
+               </item>
+               <item>
+                  <hi>Marg. Dawſon,</hi>
+               </item>
+               <item>
+                  <hi>Tho. Barrow,</hi>
+               </item>
+               <item>
+                  <hi>Tho. Pearſon,</hi>
+               </item>
+               <item>
+                  <hi>John Pearſon,</hi>
+               </item>
+               <item>
+                  <hi>Rich. Stones,</hi>
+               </item>
+               <item>
+                  <hi>T. Atkinſon,</hi>
+               </item>
+               <item>
+                  <hi>Ellen Braithwait,</hi>
+               </item>
+               <item>
+                  <hi>Grace Barrow,</hi>
+               </item>
+               <item>
+                  <hi>Mable Barrow,</hi>
+               </item>
+               <item>
+                  <hi>Marg. Barrow,</hi>
+               </item>
+               <item>
+                  <hi>Marg. Stones,</hi> &amp;c.</item>
+            </list>
+            <p>Notwithſtanding all the former Abuſe, Cruelty and Spoil acted by this <hi>T. Preſton</hi> and his Agents he ſtill remained unſatis<g ref="char:EOLhyphen"/>fied. And to give the ſaid People yet further trouble, the 16th day of the 9th Moneth, 1677. then following, cauſes them to
+<pb n="10" facs="tcp:45189:6"/>be ſummoned again to the Court Barron at <hi>Cartmell,</hi> where one <hi>Curwin Nicholls,</hi> Juſtice of Peace, and a Perſon of Moderation, ſitting as Steward, uſed ſome Perſwaſions to draw the Perſons there ſummoned to ſubmit to a Tryal there, and acknowledging the Court's Juriſdiction; but the Defendents being adviſed and ſatisfied, that by Law they ought not there to be tryed, again demur'd to the Court's Juriſdiction. Upon which the ſaid <hi>Tho. Preſton</hi> fell into an exceeding Rage, and ſaid, <hi>If you Demur to the Court, I will never leave off proſecuting you as long as you have a Groat; and</hi> (ſaid further) <hi>I Vow and Preteſt, I'le ſpend my whole Eſtate, but I'le rout you out of your Eſtates, and bring in others that ſhall pay my Tythes: And</hi> (holding up the Act againſt Conventicles in his Hand) <hi>I will proſecute this againſt you till I leave you not a Groat, unleſs you will ſubmit to the Court.</hi>
+            </p>
+            <p>After all the Perſwaſions of the Steward and Threats of the Proſecutor to preſerve their Chriſtian Liberty on the one hand, and Legal Liberty and Right on the other, they ſtood to their Demurer, and were diſmiſſed the Court.</p>
+            <p>But its obſeryable all along to ſee what uſe this <hi>T. Preſton</hi> makes of the <hi>Act againſt Conventicles,</hi> and to and for what End he ap<g ref="char:EOLhyphen"/>plies and puts the ſame in execution, viz. <hi>To maintain the <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>ſurpation of inferiour Courts, to brow-beat the Law, to inforce the payment of his illegal Demands, a Shoeinghorn for his Intereſt, and a means to perjure his Agents.</hi> The Act was made againſt <hi>ſeditious Conventicles;</hi> but the Uſe (or rather the Abuſe thereof) <hi>to di<g ref="char:EOLhyphen"/>ſturb Religious Meetings and Peaceable Aſſemblies, to gratifie the Envious, to enrich the Vagabond, to diſcourage the Induſtrous, and to ruin the King's People and peaceable Subjects.</hi>
+            </p>
+            <p>Beſides the former Diſtreſſes, there was diſtreined and taken away of <hi>John Pearſon</hi> before named, he living at <hi>Poolbank,</hi> by one <hi>John Crosfield</hi> Conſtable, for <hi>Witherſlak</hi> in <hi>Weſtmoreland,</hi> for a fine of 15 <abbr>s.</abbr> one Heifer worth 1 <abbr>l.</abbr> 10 <abbr>s.</abbr> And from <hi>Thomas Pearſon</hi> of the ſame place, for a fine of 5 <abbr>s.</abbr> two ſtone of Hemp worth 6 <abbr>s.</abbr> 8 <abbr>d.</abbr>
+            </p>
+            <p>At the Quarter-Seſſions held at <hi>Lancaſter</hi> the 9th day of the 2d moneth, call'd <hi>April,</hi> 1678. <hi>Robert Atkinſon</hi> the chief Conſtable, with four other petty Conſtables, paid to one <hi>Ken<g ref="char:EOLhyphen"/>nyon,</hi>
+               <pb n="11" facs="tcp:45189:6"/>Clark of the Peace, 9 <abbr>l.</abbr> for the King's Part, for all the Goods they took away and ſold (as is alledged) at 27 <abbr>l.</abbr> and no more, being much leſs then the value thereof. And at the ſame Seſſions there was a Bill of Indictment prefer'd againſt <hi>Geo. Rigg</hi> and <hi>Ed. Stones,</hi> the aforeſaid Informers, for Perjuring themſelves in Swearing againſt the ſaid People, by whoſe falſe Oathes the aforeſaid Convictions were made, and upon which the aforeſaid Diſtreſſes were taken, Goods ſold, Moneys levy'd, and King's part paid into Court) who in due time (if Juſtice fail not) may have the Reward of Perjured Perſons.</p>
+            <p>Neither the Perjury of his Witneſſes on the one hand, nor the Spoil which he had made on the other, did yet ſatisfie the Biſhop's Farmer; but this <hi>T. Preſton,</hi> the 14th of the 3d moneth, call'd <hi>May,</hi> 1678. near Sun-ſet, by <hi>John Bateman</hi> his Bailiff, ſum<g ref="char:EOLhyphen"/>mons ſeveral of the ſaid people to appear next morning at a <hi>Wa<g ref="char:EOLhyphen"/>pentake</hi> Court, held for the Hundred of <hi>Loyneſedall</hi> in <hi>Lanca<g ref="char:EOLhyphen"/>ſhire,</hi> at one <hi>W. Turbuck</hi>'s, near <hi>T. Preſton</hi>'s Dwelling-houſe. At which place they appearing, one <hi>Tho. Lamphigh</hi> a Lawyer ſate as Steward of the Court; and calling for their Anſwer, they deſired as their Right to appear by their Attorney, one <hi>Edmund Gibſon,</hi> who, as formerly, offer'd a Demurer to the Juriſdiction of that Court, which the Steward refuſed to accept (although by Law he ought not to deny it) — but the Steward preſſing for ano<g ref="char:EOLhyphen"/>ther Anſwer, they deſired a Copy of the Plantiff's Declaration in writing, and Time to plead till next Court, both which Re<g ref="char:EOLhyphen"/>queſts although by the Law the Steward could not deny (as he was often told) yet he arbitrarily againſt Law, Right and Cu<g ref="char:EOLhyphen"/>ſtom, over-ruled them, calling for the Plantiff's Witneſs, which was <hi>G. Rigg,</hi> then ſtanding indicted and having a Bill found a<g ref="char:EOLhyphen"/>gainſt him for Perjury, who Swore
+<list>
+                  <item>That <hi>Thomas Atkinſon</hi> was indebted 1 <abbr>l.</abbr> 13 <abbr>s.</abbr> 4 <abbr>d.</abbr>
+                  </item>
+                  <item>That <hi>Richard Britton</hi> was indebted 1 <abbr>l.</abbr> 9 <abbr>s.</abbr> 3 <abbr>d.</abbr>
+                  </item>
+                  <item>That <hi>John Barrow</hi> was indebted 5 <abbr>s.</abbr> 1 <abbr>d. q.</abbr>
+                  </item>
+                  <item>That <hi>Thomas Barrow</hi> was indebted 1 <abbr>l.</abbr> 18 <abbr>s.</abbr> 6 <abbr>d.</abbr>
+                  </item>
+                  <item>That <hi>Ellen Braithwait</hi> was indebted 6 <abbr>s.</abbr> 7 <abbr>d.</abbr>
+                  </item>
+                  <item>And that <hi>Eliz.</hi> and <hi>William Barrow</hi> were indebted 18 <abbr>s.</abbr>
+                  </item>
+               </list>
+               <pb n="12" facs="tcp:45189:7"/>And that theſe particular ſums were due to the ſaid <hi>T. Preſton</hi> for Buſhel-Tythes, as they call them, which is pretended to be due by vertue of an Agreement or Compoſition heretofore made with <hi>T. Preſton</hi> the elder, by ſeveral of the ſaid Pariſh, to pay during his Life; and although it could not be proved that any of the ſaid perſons had ſubſcribed that Agreement, or agreed to pay ſuch Buſhel-Tythes, or ever conſented to that Agreement, yet againſt all Juſtice, Law and Equity the ſaid Court, upon the bare Oath of <hi>G. Rigg,</hi> without giving any Copy of the Plantiff's De<g ref="char:EOLhyphen"/>claration, or Time to plead, immediately paſſed Verdict and Judgment againſt them for the ſaid reſpective ſums.</p>
+            <p>And the next day, being the 16th of the 2d moneth called <hi>May,</hi> 78. early in the morning is ſent this <hi>Geo. Rigg,</hi> the Swearer, with his Balliffs, viz. <hi>Geo. Stith, Jo. Bateman, John Fell</hi> and <hi>Will. Noblett,</hi> who by colour of the aforeſaid illegal procedure diſtrein and take from the ſaid people the Goods following, <hi>viz.</hi>
+            </p>
+            <p>From the ſaid <hi>Thomas Atkinſon</hi> for the 1 <abbr>l.</abbr> 13 <abbr>s.</abbr> 4 <abbr>d.</abbr> Braſs, Pewter, and a Pan of the beſt ſort, one Ox Stirk and a Heifer of the full value of 4 <abbr>l.</abbr>
+            </p>
+            <p>From <hi>Rich. Britton</hi> for the 1 <abbr>l.</abbr> 9 <abbr>s.</abbr> 3 <abbr>d.</abbr> one Gelding worth 3 <abbr>l.</abbr> 6 <abbr>s.</abbr> 8 <abbr>d.</abbr>
+            </p>
+            <p>From <hi>John Barrow,</hi> a poor man, that labours hard to main<g ref="char:EOLhyphen"/>tain his Wife and Children, for the 5 <abbr>s.</abbr> 1 <abbr>d. q.</abbr> one Heifer worth 1 <abbr>l.</abbr> 10 <abbr>s.</abbr>
+            </p>
+            <p>From <hi>Tho. Barrow</hi> for the 1 <abbr>l.</abbr> 18 <abbr>s.</abbr> 6 <abbr>d.</abbr> two Cows worth 5 <abbr>l.</abbr> 10 <abbr>s.</abbr> Ten Shillings of whoſe Money the ſaid <hi>Rigg</hi> the Tythe<g ref="char:EOLhyphen"/>gatherer acknowledged he had then in his Hands: &amp; driving away the two Cows (when one was more worth then all the Demand) a Neighbour deſired the Bailiff to return one of them back, and if one was not enough, he would pay the Over-plus; which thing the Bailiff refuſed, though they ſold one for more then the Debt.</p>
+            <p>From <hi>Ellen Braithwait,</hi> a poor Widdow, for the 6 <abbr>s.</abbr> 7 <abbr>d.</abbr> (which was much more then they could by Law demand) had taken from her a little Cow and Calf, that ſhe had bought about a Week before, which was all ſhe had, and for which ſhe paid 1 <abbr>l.</abbr> 15 <abbr>s.</abbr>
+               <hi>[So here's the Devourers of Widows Houſes.]</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:45189:7"/>
+From <hi>Elizabeth Barrow,</hi> Widow, for the 18 <abbr>s.</abbr> they took one Cow, which was her little Daughter's, worth 3 <abbr>l.</abbr> 10 <abbr>s.</abbr>
+            </p>
+            <p>So that for the 6 <abbr>l.</abbr> 10 <abbr>s.</abbr> 8 <abbr>d.</abbr> which the Tythe-Farmer's for<g ref="char:EOLhyphen"/>ſworn Swearers gave Evidence for in Court they diſtrein 19 <abbr>l.</abbr> 11 <abbr>s</abbr> 8 <abbr>d.</abbr> which ſaid Goods the Bailiffs took and carryed away, without ſhewing any Warrant for Diſtreſs, or Writ to levy the ſame, and forthwith drave and carry'd them to <hi>Cartmell</hi> Town, and ſold them at under rates, out of Market, not of a Market<g ref="char:EOLhyphen"/>day, to ſuch who were willing to partake of the unjuſt Spoil and Loſs of their Neighbours Goods; the Bailiffs then having no Writ of <hi>Venditioni exponas</hi> to impower them to ſell the ſame, as is uſual, and as it is ſaid they ought to have.</p>
+            <div type="postscript">
+               <head>A Poſtſcript to all People.</head>
+               <p>
+                  <hi>MOSES,</hi> that Man of God, and who ſpoke from the Lord, he ſaid, <hi>A Prophet ſhall the Lord your God raiſe up, him ſhall the People hear in all things; and it ſhall come to paſs, that they that will not hear that Prophet, ſhall be cut off, &amp;c.</hi> And in the fulneſs of time that true Prophet Chriſt Jeſus came, and when he was come he ſaid, <hi>Come unto me all ye that labour and are heavy loaden, and ye ſhall find Reſt for your Souls.</hi> A bleſſed In<g ref="char:EOLhyphen"/>vitation to all that can receive it; this Eternal Reſt which the <hi>Jews</hi> Reſting Day was a Figure of, <hi>remains a Reſt for the People of God forever;</hi> yet the Wiſe and the Learned, and the Scribes and the Phariſees among the <hi>Jews,</hi> they could not believe Chriſt Jeſus when he was come, but reviled him, and ſet him at nought, and reſtleſs they were till they had crucified and put him to death; the Scriptures of Truth declare the ſame: And <hi>Saul,</hi> that <hi>great Perſecutor,</hi> for all the <hi>wiſdom</hi> &amp; <hi>learning</hi> he had in the <hi>firſt nature</hi> thought he did God good Service when he got Letters from the Chief Prieſts and Rulers to perſecute the Churches of the Saints &amp; Servants of God where-ever he found them, ſuch as feared God and worſhipped him in Spirit and Truth, till it pleaſed the Lord to ſmite him with his Righteous Judgments, and bring down his
+<pb n="14" facs="tcp:45189:8"/>Pride and Preſumption; and when he was blind, and caſt down, then the Lord appeared to him, and let him ſee the Evil he had done againſt the Lord and his harmleſs People; and ſo from a <hi>perſecuting Saul</hi> he became a <hi>converted Paul,</hi> and a Miniſter, <hi>not of the Letter, but of the Spirit;</hi> then all his Human Learning and Natural Wiſdom was by him deny'd and ſet at nought, as may be read at large in his firſt Epiſtle to the <hi>Corinthians,</hi> in the be<g ref="char:EOLhyphen"/>ginning thereof; for its neither Natural Wiſdom nor Natural Learning that can or ever did bring to the True Knowledge of God, it muſt come in the Self-denyal, and in the revealed Will of God; <hi>For none knows the Father but the Son, and he to whom the Son reveals him;</hi> and as the wiſe and prudent of the World, and the chief Prieſts and Rulers would not come to Chriſt for Life and Salvation, but thought to have it in the outward Letter of the Scriptures, as Chriſt then told them; ſo the ſame dark ſpirit in people denyes the Teachings of Chriſt in ſpirit in this Age; they will not come to the Light of Chriſt in themſelves, to be taught by that, but ſet up Hireling Teachers without them, which tell them, <hi>They muſt continue in Sin for term of Life,</hi> and ſo are alwayes confeſſing, that <hi>they are miſerable Sinners, erring and going aſtray, doing that they ſhould not do, and leaving that undone which they ſhould do;</hi> but all ſuch ſhall know, that it is not they that confeſs, but they that forſake that ſhall find Mercy with the Lord: ſo that if ever people will come to the Knowledge of God &amp; Chriſt they muſt firſt come to the Witneſs of God in them<g ref="char:EOLhyphen"/>ſelves, the Light of Chriſt in their own Conſciences; for as the A<g ref="char:EOLhyphen"/>poſtle ſaith, when he came to be a Miniſter of the Spirit, <hi>That which may be known of God is manifeſted in man for God has ſhewed it to him:</hi> this ſame Apoſtle, who had been the great Perſecutor, when he came to preach the Croſs of Chriſt, which is the Power of God, it was to the <hi>Jews</hi> a Stumbling-block, and to the <hi>Greeks</hi> Fooliſhneſs, and for that Perſecution was his Portion from the great Learned Men, Prieſts and Rulers, and the baſer ſort of men joyned with; the Scriptures record the Truth thereof, which I do refer all ſober men to try, if they do not find it to be ſo; for then the change came from a Perſecutor to be Perſecuted, Hated, Whipped and Impriſoned, and at laſt Death by the <hi>Ro<g ref="char:EOLhyphen"/>mans:</hi>
+                  <pb n="15" facs="tcp:45189:8"/>And beſides all this, the Terrors and Judgments of the Lord, as a juſt Reward for his Wickedneſs done againſt Chriſt and his Faithful Servants, ſeized upon him, that he was forced in the anguiſh of his ſpirit to cry out, <hi>Oh Wretched Man that I am! who ſhall deliver me from the Body of this Death, &amp;c?</hi> yet it plea<g ref="char:EOLhyphen"/>ſed the Lord who is full of Mercy to all who truly repent and for<g ref="char:EOLhyphen"/>ſake the Evil of their doings, to bring him through Judgments, and to remit his Sins, that he could in the integrity of his heart ſay, <hi>He had obtained Victory through Chriſt Jeſus that loved him,</hi> 1 <hi>Cor.</hi> 15. and in other of his Epiſtles to the ſeveral Churches, as may be read at large.</p>
+               <p>And ſo let none think ſtrange that a Change be wrought and witneſſed in this Life; for it was the Apoſtle's Exhortation, <hi>To workout your own Salvation with Fear and Trembling; for it is God that worketh in you both to will &amp; to do of his own good Will and Pleaſure:</hi> For, are not all Mankind by nature Children of Wrath, we as well as others? it is by Grace that we are redeemed &amp; ſaved, not of our ſelves, it is the Gift of God; and this univerſal and free Grace hath appeared to all people upon the face of the whole Earth; but all are not taught by this Grace, and the Reaſon is in themſelves, becauſe they deny it, and ſo <hi>turn this Grace of God into Wantonneſs,</hi> following the Luſt of their own Hearts; and here lies the whole World, Prieſt and People, Profeſſors and Prophane, ſinning out their dayes for term of life, their beſt Actions being Sin; <hi>For the plowing of the wicked is ſin, and the prayers of the wicked are abomination to the Lord;</hi> but it is not ſo with the Godly, for <hi>this Grace which hath appeared to all men teached them</hi> (the Saints) <hi>to deny <g ref="char:V">Ʋ</g>ngodlineſs and Worldly Luſts, and to live ſoberly in this preſent evil World:</hi> This Grace was and is, and forever will be the Saints Teacher; and <hi>as many as are led and guided by this free Grace</hi> (the Spirit of God) <hi>they are the Sons of God, and if Sons then Heirs, and the Heir abides in his Fathers Houſe forever.</hi>
+               </p>
+               <closer>
+                  <signed>Publiſhed to the World by <hi>THOMAS ATKINSON.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
